@@ -48,6 +48,5 @@ def Web_Desing():
                 col8.metric(title[7], value[7])
                 col9.metric(title[8], value[8])
                 st.divider()
-                st.download_button('dowloand', 'a')
 
 Web_Desing()
